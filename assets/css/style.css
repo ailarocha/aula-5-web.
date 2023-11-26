@@ -1,0 +1,30 @@
+.contanier{
+    background-color: white;
+   box-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    font-family: cursive;
+}
+
+
+
+div{
+    margin: black;
+    margin-top: 30px;
+    padding: 10px;
+    background-color: gainsboro;
+}
+
+p{
+    font-family: cursive;
+
+}
+
+h2{
+    font-size: 30px;
+    background-color: wheat
+
+}
+h5{
+    font-size: 12px;
+}
